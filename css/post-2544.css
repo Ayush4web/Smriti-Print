@@ -1,0 +1,68 @@
+.elementor-2544 .elementor-element.elementor-element-a8b663b:not(.elementor-motion-effects-element-type-background), .elementor-2544 .elementor-element.elementor-element-a8b663b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-2544 .elementor-element.elementor-element-a8b663b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-a8b663b>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-bdb6c0a .elementor-menu-toggle {
+    margin: 0 auto;
+}
+
+.elementor-2544 .elementor-element.elementor-element-79773916>.elementor-background-overlay {
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-79773916 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-754590a2>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-754590a2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2544 .elementor-element.elementor-element-fccc6c4 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2544 .elementor-element.elementor-element-679185d .elementor-menu-toggle {
+    margin: 0 auto;
+}
+
+@media(max-width:767px) {
+    .elementor-2544 .elementor-element.elementor-element-3c48cc9 {
+        text-align: center;
+    }
+
+    .elementor-2544 .elementor-element.elementor-element-3c48cc9 img {
+        width: 50%;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-2544 .elementor-element.elementor-element-b616c28 {
+        width: 14.825%;
+    }
+
+    .elementor-2544 .elementor-element.elementor-element-d3a7a58 {
+        width: 85.175%;
+    }
+
+    .elementor-2544 .elementor-element.elementor-element-80a8d68 {
+        width: 23.408%;
+    }
+
+    .elementor-2544 .elementor-element.elementor-element-1007c5c {
+        width: 26.592%;
+    }
+}
